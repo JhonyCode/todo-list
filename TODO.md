@@ -9,5 +9,6 @@ This is the checklist of tasks to make a good readme:
   - [ ] **Prerequisites**
   - [ ] **Installing**
 - [ ] **Deployment**
-  -[**Built With**
-  ]
+- [ ] **Built With**
+- [ ] **Authors**
+  
