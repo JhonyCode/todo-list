@@ -46,4 +46,4 @@ JhonyCode - Provided README template - Profile A (https://github.com/JhonyCode)
 
 Mario - Provided README template - Profile B https://github.com/Mariopd87
 
-See also the list of contributors who participated in this project.
+See also the list of[contributors](https://www.example.com/)  who participated in this project.
