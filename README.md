@@ -47,3 +47,8 @@ JhonyCode - Provided README template - Profile A (https://github.com/JhonyCode)
 Mario - Provided README template - Profile B https://github.com/Mariopd87
 
 See also the list of[contributors](https://www.example.com/)  who participated in this project.
+
+### **License**
+
+This project is licensed unther [CC0.1.0 Universal](https://www.example.com) 
+Creative Common License - see the [LICENSE.md](https://www.example.com) file for details
