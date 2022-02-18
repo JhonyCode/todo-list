@@ -39,3 +39,11 @@ Add additional notes to deploy on a live system
 [example](https://www.example.com) Used for the Code of Conduct
 
 [Example 2](https://www.example.com) Used to choose the license
+
+### **Authors**
+
+Programmer A - Provided README template - Profile A
+
+Programmer B- Provided README template - Profile B
+
+See also the list of contributors who participated in this project.
