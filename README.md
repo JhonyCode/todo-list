@@ -42,8 +42,8 @@ Add additional notes to deploy on a live system
 
 ### **Authors**
 
-Programmer A - Provided README template - Profile A
+JhonyCode - Provided README template - Profile A (https://github.com/JhonyCode)
 
-Programmer B- Provided README template - Profile B
+Mario - Provided README template - Profile B https://github.com/Mariopd87
 
 See also the list of contributors who participated in this project.
