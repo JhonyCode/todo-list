@@ -30,3 +30,7 @@ until finished
 ```
 
 End with an example of getting some data out of the system or usin it for a little demo
+
+### **Deployment**
+
+Add additional notes to deploy on a live system
