@@ -12,3 +12,9 @@ These instrucitons will give you a copy of the project up and ruinning on your l
 Requierements for the software and other tools to build, test and push 
 [Example 1](https://www.instagram.com/jonymul07/)
 [Example 2](https://www.instagram.com/jonymul07/)
+
+### **Installing**
+
+A step by step series of examples that tell you how to get a development environment running
+
+Say what step will be
